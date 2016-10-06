@@ -11,4 +11,4 @@
 - [ ] gradient background generator
 - [ ] control pc from smartphone
 - [ ] plugin for editor to wrap code with function for javascript
-
+- [ ] app to crawl data from mutiple tech blogs
